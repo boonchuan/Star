@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; background:#000; color:#fff; padding:20px; } a {color:#FFD700;}
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .cta-buttons, .cta-buttons a {
+        display: block !important;
+        margin: 10px auto !important;
+        width: 80% !important;
+        text-align: center;
+    }
+}

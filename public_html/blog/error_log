@@ -1,0 +1,9 @@
+[15-Jul-2025 09:35:29 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Jul-2025 15:48:24 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/starfa991338/public_html/blog/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/starfa991338/public_html/blog/home.php on line 3
+[16-Jul-2025 15:48:27 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/starfa991338/public_html/blog/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/starfa991338/public_html/blog/home.php on line 3
