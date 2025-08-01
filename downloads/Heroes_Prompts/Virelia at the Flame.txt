@@ -1,0 +1,18 @@
+Name: Virelia at the Flame
+Faction: Cradle of the Root
+Color Scheme: Earth Green & Amber
+Image Size: 1024×1536
+
+[FIXED ELEMENTS]
+- Female, youthful elf-like face
+- Druidic armor made of vines and amber shards
+- Staff wrapped in flowering roots
+- Hair interwoven with plant life
+- Background: ancient forest or tree temple
+
+[VARIABLE ELEMENTS]
+- Summoning a massive amber golem
+- Creating a healing aura of green petals
+- Roots bursting from the earth to trap enemies
+- Illuminated by bioluminescent wildlife
+- Resting in a grove of sentient trees

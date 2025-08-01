@@ -1,0 +1,18 @@
+Name: High Priestess Nyra
+Faction: Elemental Flame
+Color Scheme: Lavender & Black
+Image Size: 1024×1536
+
+[FIXED ELEMENTS]
+- Female, ethereal appearance, glowing violet eyes
+- Flowing lavender robes with black flame motifs
+- Ornate headpiece with elemental crystal
+- Surrounded by magical glyphs or flame runes
+- Background: altar or temple interior
+
+[VARIABLE ELEMENTS]
+- Summoning a lavender fire phoenix
+- Casting runes into the air with glowing fingertips
+- Standing atop a flaming obsidian pillar
+- Channeling dark flame energy from her chest
+- Cloaked in smoke and magical embers

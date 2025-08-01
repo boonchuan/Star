@@ -1,0 +1,19 @@
+Name: Doctor Boon
+Faction: The Freeborn
+Color Scheme: Teal & Chrome
+Image Size: 1024×1536
+
+[FIXED ELEMENTS]
+- Male, ~30 years old, Asian features
+- Clean-shaven, cybernetic eye implant (left)
+- Long lab coat with teal circuitry trim
+- Gloved hands with medical injector tools
+- Chrome-plated shoulder armor
+- Background: sci-fi laboratory or cyber-medbay
+
+[VARIABLE ELEMENTS]
+- Performing emergency nanobot surgery
+- Controlling a holographic medical drone swarm
+- Examining a virus sample in stasis chamber
+- Deploying a teal energy barrier from palm
+- Surrounded by patient data streams

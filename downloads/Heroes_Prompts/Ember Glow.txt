@@ -1,0 +1,17 @@
+Name: Ember Glow
+Faction: The Ember Ashes
+Color Scheme: Crimson & Steel
+Image Size: 1024×1536
+
+[FIXED ELEMENTS]
+- Armored sentinel with molten runes carved into gauntlets
+- Smoldering red eyes beneath a cracked helm
+- Cloaked in crimson, standing at a burning forge altar
+- Background: volcanic stronghold
+
+[VARIABLE ELEMENTS]
+- Forging a blade from pure fire
+- Slamming the ground to release a lava wave
+- Rising from a pit of embers with glowing armor
+- Backlit by an eruption
+- Surrounded by glowing fire sigils and ash smoke

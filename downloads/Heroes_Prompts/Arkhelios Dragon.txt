@@ -1,0 +1,20 @@
+Name: Arkhelios Dragon
+Faction: The Void Ones
+Color Scheme: Void Purple & Gray
+Image Size: 1024×1536
+
+[FIXED ELEMENTS]
+- Elder Void Dragon
+- Obsidian black scales with violet shimmer
+- Glowing violet slit-eyes
+- Serpentine body, crystalline horns, runic chest engravings
+- Wings of dark energy extended mid-air
+- Armor: gray with void sigils
+- Background: collapsing starlit sky or void rift
+
+[VARIABLE ELEMENTS]
+- Devouring stars with its mouth open mid-roar
+- Coiled around a shattered planet core
+- Shooting a beam of void matter
+- Cloaked in a nebula of corruption
+- Piercing through space-time with glowing claws

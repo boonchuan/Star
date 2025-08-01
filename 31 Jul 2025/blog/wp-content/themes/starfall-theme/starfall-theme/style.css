@@ -1,0 +1,58 @@
+/*
+Theme Name: Starfall Theme
+Theme URI: https://starfallcatastrophe.com/
+Author: Boon Chuan
+Author URI: https://starfallcatastrophe.com/
+Description: A minimal theme matching Starfall Catastrophe's main site.
+Version: 1.2
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background: url('images/epic_faction_splash.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+header {
+    background: transparent;
+    padding: 20px 0;
+    text-align: center;
+}
+header h1 {
+    font-size: 32px;
+    margin: 0;
+    color: #ffffff;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 0 0;
+}
+nav ul li {
+    margin: 0 15px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.blog-container {
+    max-width: 960px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.post-card {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+}

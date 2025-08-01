@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starfall Catastrophe</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+        }
+        header {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            left: 0;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.4);
+            text-align: center;
+            z-index: 100;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .hero {
+            position: relative;
+            height: 100vh;
+            background: url('images/epic_faction_splash.png') no-repeat center center/cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 3.5em;
+            text-shadow: 0 0 20px #000;
+        }
+        .cta-buttons {
+            margin-top: 20px;
+        }
+        .cta-buttons a {
+            padding: 10px 20px;
+            margin: 0 10px;
+            background-color: #4B0082;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .cta-buttons a:hover {
+            background-color: #6A0DAD;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #111;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="heroes.html">Heroes</a>
+            <a href="lore.html">Lore</a>
+            <a href="cards.html">Cards</a>
+            <a href="downloads/">Downloads</a>
+            <a href="blog/index.php">Blog</a>
+        </nav>
+    </header>
+    <div class="hero">
+        <div>
+            <h1>Starfall Catastrophe</h1>
+            <div class="cta-buttons">
+                <a href="heroes.html">View Heroes</a>
+                <a href="downloads/">Download Rules</a>
+                <a href="blog/index.php">Join Kickstarter</a>
+            </div>
+        </div>
+    </div>
+    <footer>
+        &copy; 2025 Starfall Catastrophe. All rights reserved.
+    </footer>
+</body>
+</html>

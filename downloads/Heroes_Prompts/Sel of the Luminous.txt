@@ -1,0 +1,17 @@
+Name: Sel of the Luminous
+Faction: Codex of the Eternal Spark
+Color Scheme: White-Gold, Electric Blue, Ink-Black
+Image Size: 1024×1536
+
+[FIXED ELEMENTS]
+- Androgynous figure, glowing skin
+- Floating above a codex of energy or runes
+- Light-script tattoos across arms
+- Background: digital archive or celestial codex
+
+[VARIABLE ELEMENTS]
+- Projecting a holographic barrier across space
+- Confronting invaders with weaponized light scripture
+- Reconstructing broken code of reality
+- Channeling a starbeam from an ancient tome
+- Data wings made of glowing inscriptions
